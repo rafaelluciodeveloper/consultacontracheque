@@ -1,0 +1,17 @@
+body{
+    padding: 8%;
+
+}
+
+label{
+    font-weight: bold !important;
+}
+
+#tudo{
+    width: 900px;
+    height: 400px;
+}
+
+#imglogo{
+    padding-bottom: 5%;
+}
